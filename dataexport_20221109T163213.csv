@@ -1,13 +1,4 @@
-location,Базель,Базель,Базель,Базель
-lat,47.54694,47.54694,47.54694,47.54694
-lon,7.56892,7.56892,7.56892,7.56892
-asl,283.697,283.697,283.697,283.697
-variable,Temperature,Relative Humidity,Wind Speed,Wind Direction
-unit,°C,%,km/h,°
-level,2 m elevation corrected,2 m,10 m,10 m
-resolution,hourly,hourly,hourly,hourly
-aggregation,None,None,None,None
-timestamp,Базель Temperature [2 m elevation corrected],Базель Relative Humidity [2 m],Базель Wind Speed [10 m],Базель Wind Direction [10 m]
+timestamp,Temperature,Relative Humidity,Wind Speed,Wind Direction
 20220102T0000,8.780529,60.0,7.968939,108.434944
 20220102T0100,8.600529,60.0,8.766573,109.17901
 20220102T0200,8.200529,61.0,9.028754,113.498566
